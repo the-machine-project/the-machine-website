@@ -1,5 +1,7 @@
 # The Machine's Website
 
+[![Join the chat at https://gitter.im/the-machine-project/the-machine-website](https://badges.gitter.im/the-machine-project/the-machine-website.svg)](https://gitter.im/the-machine-project/the-machine-website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ---
 
 This repository is a separate website for the github.io page for the Machine.
